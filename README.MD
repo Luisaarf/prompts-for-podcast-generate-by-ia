@@ -1,7 +1,6 @@
 <p align="center">
 <img 
     src="./src/assets/cover.jpg"
-    width="300"
 />
 </p>
 
@@ -40,5 +39,5 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Imagem de capa com Leonardo AI
 
-## 👨‍💻 Exper5
+## 👨‍💻 Expert
 <p> Luísa Foppa </p>
