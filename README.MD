@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./src/assets/cover.jpg"
     width="300"
 />
 </p>
@@ -32,11 +32,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://www.gemini.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
+- [LeonardoAi](https://app.leonardo.ai/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt e gemini
 - Audio gerado pela elevenLabs
+- Imagem de capa com Leonardo AI
 
 ## 👨‍💻 Exper5
 <p> Luísa Foppa </p>
